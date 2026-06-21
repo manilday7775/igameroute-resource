@@ -1,2 +1,14 @@
 # igameroute-resource
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
